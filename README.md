@@ -16,9 +16,13 @@ Further details about goals are provided in the Goals page.
 
 Templates are predefined methods to achieve a goal. For example, creating an engineering team.
 
+For more details read [Templates](TEMPLATES.MD)
+
 # Use cases
 
 Use cases are needs of a team or an individual. Templates are made up of use cases.
+
+For more details read [Use cases](USE_CASES.md)
 
 
 
