@@ -16,7 +16,7 @@ Further details about goals are provided in the [Goals](GOALS.md) page.
 
 A corporation is a collection of projects that performed by group(s) people. The projects are dynamic in nature. Some projects are long running, while some are short paced. However, people who execute the project are statically assigned through a rigid hierarchy. The rigid hierarchy has several problems, But it kind of works. Right decisions are eventually made. The bureaucracy serves its purpose for the needs of investors, government and external entities. For all these needs there is a single point of contact. However, the single point of contact gets overwhelmed for internal communication and decision making. Because there is just too much of it. Also, another important role of rigid hierarchy is management of budget. Single point of contact is perhaps the best way to deal with money unless a sophisticated and fail-proof system is invented.
 
-For more details read [corporation 1.0](Corp1.0.md)
+For more details read [corporation 1.0](CORP_1.0.md)
 
 # Corp 2.0
 
