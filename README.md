@@ -16,7 +16,7 @@ Further details about goals are provided in the Goals page.
 
 Templates are predefined methods to achieve a goal. For example, creating an engineering team.
 
-For more details read [Templates](TEMPLATES.MD)
+For more details read [Templates](TEMPLATES.md)
 
 # Use cases
 
