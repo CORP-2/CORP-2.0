@@ -1,10 +1,20 @@
 # CORP 1.0
 
-## What works
+Before bureaucracy things were done based on personal connections. This was the pre-industrial era.
 
-* single-point-of-contact
+Bureaucracy introduced rules, plans and processes. It was a good thing at a time, when things were managed by feudal systems.
 
-## What doesn't work
+Bureaucratic systems were built to have
+
+* Predictability
+* Efficiency
+
+What changed in 21st century
+
+* Availability of instance Information
+* Global competition
+
+## What doesn't work anymore
 
 * Blind spots
 * Grey Areas
