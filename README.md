@@ -12,20 +12,24 @@ Let's say, a company that has `hierarchical` structure and operates on `command-
 
 Corp 2.0 aims to simplify and modernize bureaucracy in medium and large companies.
 
-Corp 2.0 strives to fix the broken aspects of Corp 1.0 while allowing the parts that work well to remain. For example, the idea is not to eliminate hierarchy, but rather to simplify it. The `single point of contact` works well dealing with external entities such as government(s), investors, customers etc. so there need not be drastic changes to the external face of the company.
+Corp 2.0 strives to fix the broken aspects of `corp 1.0` while allowing the parts that work well to remain. For example, the idea is not to eliminate hierarchy, but rather to simplify it. The `single point of contact` works well dealing with external entities such as government(s), investors, customers etc. so there need not be drastic changes to the external face of the company.
 
 However the `single point of contact` is oftentimes a disaster for internal communication and decision making. `Corp 2.0` tries to reduce `single point of contacts` and increases visibility into `decision making` whether it is `single-point` or `collective.`  
 
 
 # Goals
 
-The ultimate goal is streamlining bureaucracy. However, the major differentiators and principal goals of `corp 2.0` are:
+The principal goals of `corp 2.0` are:
 
+* Faster feedback loops
 * Continuous objective evaluation of employees
+* Gradual on-boarding, iteration
+* Backward compatibility
 * Collective management with multiple data points
-* Gradual on-boarding, iteration, and backward compatibility
 
 Further details about goals are provided in the [Goals](GOALS.md) page.
+
+
 
 ## Projects
 
