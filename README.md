@@ -1,6 +1,6 @@
 # CORP-2.0
 
-Virtually every organization in the world is made up of people and managed via bureaucratic means. While bureaucracy works, it is inefficient, very slow, and open to abuse of power. In essence, bureaucracy in its current state, is totally outdated for the modern world. Corp 2.0 aims to simplify and modernize management in medium and large companies.
+Virtually every organization in the world is made up of people and managed via bureaucratic means. While bureaucracy works, it is inefficient, very slow, and open to abuse of power. In essence, bureaucracy in its current state, is totally outdated for the modern world. Corp 2.0 aims to simplify and modernize bureaucracy in medium and large companies.
 
 # Goals
 
@@ -8,7 +8,7 @@ The ultimate goal is streamlining bureaucracy. However, the major differentiator
 
 * Continuous objective evaluation of employees
 * Collective management with multiple data points
-* Gradual onboarding, iteration, and backward compatibility
+* Gradual on-boarding, iteration, and backward compatibility
 
 Further details about goals are provided in the [Goals](GOALS.md) page.
 
@@ -29,7 +29,7 @@ However the `single point of contact` is oftentimes a disaster for internal comm
 `Projects` are created from `Templates.` A `Project` is an initiative taken on by the company in order to achieve an objective.
 For example, creating an engineering team.
 
-`Templates` are predefined methods to perform the full lifecycle of a `Project.` 
+`Templates` are predefined methods to perform the full lifecycle of a `Project.`
 
 For more details read [Templates](TEMPLATES.md)
 
@@ -40,10 +40,3 @@ An `Action` is an undertaking performed by an individual. `Actions` are performe
 An `Action` is created from an `Use case.` An `Action` belongs to a `Project.`
 
 For more details read [Use cases](USE_CASES.md)
-
-
-
-
-
-
-
