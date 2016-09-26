@@ -1,6 +1,13 @@
-# CORP-2.0
+# Why
 
-Virtually every organization in the world is made up of people and managed via bureaucratic means. While bureaucracy works, it is inefficient, very slow, and open to abuse of power. In essence, bureaucracy in its current state, is totally outdated for the modern world. Corp 2.0 aims to simplify and modernize bureaucracy in medium and large companies.
+ Every organization in the world is made up of people and managed via bureaucratic means. While bureaucracy works, it is inefficient, very slow, and open to abuse of power. In essence, bureaucracy in its current state, is totally outdated for the modern world. Corp 2.0 aims to simplify and modernize bureaucracy in medium and large companies.
+
+# Corp 1.0
+
+A corporation is a collection of projects that are executed by groups of people. The projects are dynamic in nature: some are long running while other projects are short-lived. However, people who work on the projects are statically assigned through a rigid hierarchy. This rigid hierarchy has several problems, but it works to a certain degree and up to a certain point. The bureaucracy serves its purpose for the needs of investors, government and external entities. The right decisions are eventually made. For all of these needs, there is a single point of contact. This structure is perhaps the best way to deal with management of budget and money until a more sophisticated and fail-proof system is invented. However, the single point of contact often gets overwhelmed by other vital functions of a corporation, such as internal communication and decision making, because there is simply too much of it. Yet Corp 1.0 requires and depends on this single point of contact which potentially turns into a single point of failure, and no change has been introduced to this way of working until now.
+
+For more details read [corporation 1.0](CORP_1.0.md)
+
 
 # Goals
 
@@ -12,11 +19,6 @@ The ultimate goal is streamlining bureaucracy. However, the major differentiator
 
 Further details about goals are provided in the [Goals](GOALS.md) page.
 
-# Corp 1.0
-
-A corporation is a collection of projects that are executed by groups of people. The projects are dynamic in nature: some are long running while other projects are short-lived. However, people who work on the projects are statically assigned through a rigid hierarchy. This rigid hierarchy has several problems, but it works to a certain degree and up to a certain point. The bureaucracy serves its purpose for the needs of investors, government and external entities. The right decisions are eventually made. For all of these needs, there is a single point of contact. This structure is perhaps the best way to deal with management of budget and money until a more sophisticated and fail-proof system is invented. However, the single point of contact often gets overwhelmed by other vital functions of a corporation, such as internal communication and decision making, because there is simply too much of it. Yet Corp 1.0 requires and depends on this single point of contact which potentially turns into a single point of failure, and no change has been introduced to this way of working until now.
-
-For more details read [corporation 1.0](CORP_1.0.md)
 
 # Corp 2.0
 
