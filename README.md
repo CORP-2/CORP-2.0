@@ -39,7 +39,7 @@ What | How | Description |
 Template | Project | Projects are created from Templates
 Use case| Action | Actions are created from Use cases
 Role | Position | Position is made up of roles. Each role requires a special skill. Each role provides some responsibility and provide the necessary authority.
-|Skill| Ability to perform an action.
+ |Skill| Ability to perform an action.
 
 
 ## Projects
