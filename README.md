@@ -4,7 +4,7 @@
 
 # Corp 1.0
 
-Let's say, a company that has `hierarchical` structure and operates on `command-and-control` model as a `corp 1.0` company.
+Let's call any company that has `hierarchical` structure and operates on `command-and-control` model a `corp 1.0` company.
 
 The advantages and disadvantages of `corp 1.0` are described [here](CORP_1.0.md)
 
