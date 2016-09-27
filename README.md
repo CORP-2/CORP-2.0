@@ -1,10 +1,10 @@
 # Why
 
- Every organization in the world is made up of people and managed via bureaucratic means. While bureaucracy works, it is inefficient, very slow, and open to abuse of power. In essence, bureaucracy in its current state, is totally outdated for the modern world.
+ Every organization in the world is made up of people and managed via bureaucratic means. While bureaucracy works, it is inefficient, very slow, and open to abuse of power. In essence, bureaucracy in its current state, is outdated for the modern world.
 
 # Corp 1.0
 
-Let's say, a company that has `hierarchical` structure and operates on `command-and-control` model as `corp 1.0` company.
+Let's say, a company that has `hierarchical` structure and operates on `command-and-control` model as a `corp 1.0` company.
 
 The advantages and disadvantages of `corp 1.0` are described [here](CORP_1.0.md)
 
@@ -14,8 +14,7 @@ The advantages and disadvantages of `corp 1.0` are described [here](CORP_1.0.md)
 
 Corp 2.0 strives to fix the broken aspects of `corp 1.0` while allowing the parts that work well to remain. For example, the idea is not to eliminate hierarchy, but rather to simplify it. The `single point of contact` works well dealing with external entities such as government(s), investors, customers etc. so there need not be drastic changes to the external face of the company.
 
-However the `single point of contact` is oftentimes a disaster for internal communication and decision making. `Corp 2.0` tries to reduce `single point of contacts` and increases visibility into `decision making` whether it is `single-point` or `collective.`  
-
+However the `single point of contact` is oftentimes a disaster for internal communication and decision making. `Corp 2.0` tries to reduce `single point of contacts` and increases visibility into `decision making.`  
 
 ## Goals of Corp 2.0
 
@@ -25,8 +24,7 @@ The principal goals of `corp 2.0` are:
 
 * Faster feedback loops
 * Continuous objective evaluation of employees
-* Gradual on-boarding, iteration
-* Backward compatibility
+* Backward compatibility, Gradual on-boarding, iteration
 * Collective management with multiple data points
 
 Further details about goals are provided in the [Goals](GOALS.md) page.
