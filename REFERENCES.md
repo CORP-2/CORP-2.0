@@ -1,7 +1,7 @@
 
 # Organizations
 
-* [Halocracy](http://www.holacracy.org/)
+* [Holacracy](http://www.holacracy.org/)
 * [Self management institute](http://www.self-managementinstitute.org/)
 * [Responsive.org](http://www.responsive.org/)
 * [Corporate Executive Board](https://www.cebglobal.com/)
