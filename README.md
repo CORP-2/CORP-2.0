@@ -35,11 +35,11 @@ Further details about goals are provided in the [Goals](GOALS.md) page.
 Following are the backbone of `corp 2.0`.
 
 What | How | Description |
---- | --- |--|
+--- | --- |---|
 Template | Project | Projects are created from Templates
 Use case| Action | Actions are created from Use cases
 Role | Position | Position is made up of roles. Each role requires a special skill. Each role provides some responsibility and provide the necessary authority.
-|Skill| Ability to perform an action or knowledge
+|Skill| Ability to perform an action.
 
 
 ## Projects
