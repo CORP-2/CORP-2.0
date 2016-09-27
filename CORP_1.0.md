@@ -1,6 +1,6 @@
 # CORP 1.0
 
-Before bureaucracy, things were done based on personal connections. Bureaucracy introduced rules, plans, and processes. It was initially helpful, especially when commerce was managed by feudal systems. However, this was the pre-industrial era.
+Before bureaucracy, business was conducted by personal connections. Bureaucracy introduced rules, plans, and processes. It was initially helpful, especially when commerce was managed by feudal systems. However, this was the pre-industrial era.
 
 Now, we live in a completely different post-industrial, truly technical age. Now, we have instant information available to, and global competition among, all of us.
 
