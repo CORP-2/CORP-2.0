@@ -4,7 +4,12 @@
 * [Holacracy](http://www.holacracy.org/)
 * [Self management institute](http://www.self-managementinstitute.org/)
 * [Responsive.org](http://www.responsive.org/)
+* [Reinventing Organizations](http://www.reinventingorganizations.com/)
 * [Corporate Executive Board](https://www.cebglobal.com/)
+
+# Conferences
+
+* [Future of Work](http://www.responsiveconference.com/#what-is-responsive)
 
 # Documents
 
