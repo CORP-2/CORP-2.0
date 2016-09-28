@@ -11,6 +11,10 @@
 
 * [Future of Work](http://www.responsiveconference.com/#what-is-responsive)
 
+# Books
+
+* [Team of teams](http://www.nickols.us/TeamofTeams.pdf)
+
 # Documents
 
 * [implementers-solvers-and-finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
