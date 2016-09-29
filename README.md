@@ -22,6 +22,7 @@ However the `single point of contact` is oftentimes a disaster for internal comm
 
 The principal goals of `Corp 2.0` are:
 
+* Discover information from interactions
 * Faster feedback loops
 * Continuous objective evaluation of employees
 * Backward compatibility, gradual onboarding, iteration
@@ -32,37 +33,12 @@ Further details about goals are provided in the [Goals](GOALS.md) page.
 
 ## Components of Corp 2.0
 
-The following are the backbone of `Corp 2.0`.
+Components are the backbone of `Corp 2.0`. They are intentionally designed to mirror the existing mainstream organizations.
 
-What | How | Description |
---- | --- |---|
-Template | Project | Projects are created from templates
-Use case| Action | Actions are created from use cases
-Role | Position | A position is made up of roles; each role requires a special skill, provides some responsibility and provides the necessary authority to execute those responsibilities
- |Skill| An ability to perform an action
-
-
-## Projects
-
-`Projects` are created from `templates.` A `project` is an initiative taken on by the company in order to achieve an objective.
-For example, creating an engineering team.
-
-`Templates` are predefined methods to perform the full lifecycle of a `project.`
-
-For more details read [Templates](TEMPLATES.md)
-
-## Actions
-
-An `action` is an undertaking performed by an individual. `Actions` are performed based on the needs of an individual or of a `project.` Sometimes an `action` has more than one participant. For example, a `one-on-one` meeting is performed by two people with different roles. A `code-review`  can be performed by two people with the same roles. `Projects` are made up of `actions.`
-
-An `action` is created from an `use case.` An `action` belongs to a `project.`
-
-For more details read [Use cases](USE_CASES.md)
-
-## Position
-
-A `position` is roughly the equivalent of a `title.` As a person grows in his career, he or she may learn new things, thus performing various and different `roles`. Each `role` requires a certain `skill.` Each `role` requires the person to be responsible for his or her `actions` and provides the necessary authority for the person to execute the responsibilities necessary for the role.
-
-## Skill
-
-A `skill` is required by a `role` for performing an `action.` A `skill` is basically knowledge or talent that a person possesses that allows him or her to fulfill work duties.
+Component | Applies to | Description |
+ --- |---| ---|
+ Project | Company |Projects are made up of Actions
+ Action | Company | Work performed by person(s) with certain skill(s)
+ Position | Person | *Made up of roles* <br/> *Requires skill(s)* <br/> *Provides authority* <br/> *Helds accountable*
+Role| Person | Person with demonstrable skill. <br/> *Capable of performing an action professionally*
+Skill| Person |An ability to perform an action
