@@ -2,8 +2,9 @@
 # Self Management Movements 
 
 * [Holacracy](http://www.holacracy.org/)
-* [Self management institute](http://www.self-managementinstitute.org/)
+* [ReWork](https://rework.withgoogle.com/)
 * [Responsive.org](http://www.responsive.org/)
+* [Self management institute](http://www.self-managementinstitute.org/)
 * [Reinventing Organizations](http://www.reinventingorganizations.com/)
 * [Corporate Executive Board](https://www.cebglobal.com/)
 
