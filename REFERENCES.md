@@ -33,3 +33,4 @@
 * [Google's quest to build a better boss](http://www.nytimes.com/2011/03/13/business/13hire.html?smid=pl-share&_r=0)
 * [21 Radical Ideas](https://medium.com/responsive-engineering/i-have-21-radical-ideas-b428414a4efc#.k8xe35y89)
 * [Let your works rebel - contains a timeline of organizational theories and changes](https://hbr.org/cover-story/2016/10/let-your-workers-rebel)
+* [3 powerful conversations managers must have with their people](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/)
