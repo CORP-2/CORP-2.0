@@ -2,8 +2,9 @@
 # Self Management Movements 
 
 * [Holacracy](http://www.holacracy.org/)
-* [Self management institute](http://www.self-managementinstitute.org/)
+* [ReWork](https://rework.withgoogle.com/)
 * [Responsive.org](http://www.responsive.org/)
+* [Self management institute](http://www.self-managementinstitute.org/)
 * [Reinventing Organizations](http://www.reinventingorganizations.com/)
 * [Corporate Executive Board](https://www.cebglobal.com/)
 
@@ -34,3 +35,4 @@
 * [21 Radical Ideas](https://medium.com/responsive-engineering/i-have-21-radical-ideas-b428414a4efc#.k8xe35y89)
 * [Let your works rebel - contains a timeline of organizational theories and changes](https://hbr.org/cover-story/2016/10/let-your-workers-rebel)
 * [3 powerful conversations managers must have with their people](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/)
+* [Five keys to a successful google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
