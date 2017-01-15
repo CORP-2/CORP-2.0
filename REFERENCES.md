@@ -5,6 +5,7 @@
 * [ReWork](https://rework.withgoogle.com/)
 * [Responsive.org](http://www.responsive.org/)
 * [Self management institute](http://www.self-managementinstitute.org/)
+* [Chaordic Organization](https://www.wikiwand.com/en/Chaordic_organization)
 * [Reinventing Organizations](http://www.reinventingorganizations.com/)
 * [Corporate Executive Board](https://www.cebglobal.com/)
 
