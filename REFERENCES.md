@@ -38,3 +38,5 @@
 * [3 powerful conversations managers must have with their people](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/)
 * [Five keys to a successful google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
 * [Management theory is becoming a compendium of dead ideas](http://www.economist.com/news/business/21711909-what-martin-luther-did-catholic-church-needs-be-done-business-gurus-management)
+
+* [Lars Kolind](http://corporate-rebels.com/lars-kolind/)
